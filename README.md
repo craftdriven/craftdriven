@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
-<h1 align="center">Hi 👋, Senior Web / Mobile Developer here.</h1>
+<h1 align="center">Hi 👋, Senior Mobile / Web Developer here.</h1>
 
 I'm a software engineer with a fire in my belly and a knack for getting things done. I lead the charge in crafting amazing user experiences from the ground up. 
 <br>
@@ -8,7 +8,7 @@ This lets me build web apps that are not only stunning to look at but also run l
 <br>
 New challenges keep me energized, and I'm always ready to tackle them head-on.
 
-<h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
+<h1 align="center">💫 My 🌟 SKILLS</h1>
 <p align="center">
 <table align="center">
   <tr>
